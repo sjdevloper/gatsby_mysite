@@ -122,7 +122,7 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
     
    #### 4. Add fontawesome-css
    > import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
-> import{ faLinkedin,faTwitterSquare,} from '@fortawesome/free-brands-svg-icons’;
-> <FontAwesomeIcon icon={faTwitterSquare} /> 
-> <FontAwesomeIcon icon={faLinkedin} />
-  
+  > import{ faLinkedin,faTwitterSquare,} from '@fortawesome/free-brands-svg-icons’;
+    <FontAwesomeIcon icon={faTwitterSquare} /> 
+    <FontAwesomeIcon icon={faLinkedin} />
+
