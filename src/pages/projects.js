@@ -38,7 +38,7 @@ const projects = () => (
                 <div class="content">
                     <h2><p>(My projects)</p>Gatsby-My Site(Web Development)</h2>
                   <p>
-                  I followed the most popular "my website" model through GitHub to build up my website. I used Gatsby Cloud to publish my website as App.
+                  I followed the most popular "my website" model through GitHub to build up my website. I used netlify to deploy my website.
                   </p>
                 </div>
               </div>
