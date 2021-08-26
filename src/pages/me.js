@@ -36,10 +36,10 @@ const me = () => (
                <li>
               <div class="direction-l">
                 <div class="flag-wrapper">
-                  <span class="flag">College Math Tutor</span>
-                  <span class="time-wrapper"><span class="time">2016 - 2016</span></span>
+                  <span class="flag">Georgia Institute of Technology</span>
+                  <span class="time-wrapper"><span class="time">2018 - 2020</span></span>
                 </div>
-                <div class="desc">My first job to learn English and Communication in US</div>
+                <div class="desc">I majored in computer science and got my master's degree from here.</div>
               </div>
             </li>
   
@@ -49,10 +49,10 @@ const me = () => (
             <li>
               <div class="direction-r">
                 <div class="flag-wrapper">
-                  <span class="flag">Georgia Institute of Technology</span>
-                  <span class="time-wrapper"><span class="time">2018 - 2020</span></span>
+                  <span class="flag">College Math Tutor</span>
+                  <span class="time-wrapper"><span class="time">2016</span></span>
                 </div>
-                <div class="desc">A description of all the lectures and courses I have taken and my final degree?</div>
+                <div class="desc">My first job to learn English and Communication in US</div>
               </div>
             </li>
 

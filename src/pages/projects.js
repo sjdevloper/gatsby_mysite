@@ -37,9 +37,9 @@ const projects = () => (
                 <div class="date">2021</div>
                   <i class="icon fa fa-home"></i>
                 <div class="content">
-                    <h2>Lorem ipsum dolor sit amet</h2>
+                    <h2><p>(My projects)</p>Gatsby-My Site(Web Development)</h2>
                   <p>
-                  Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat sagittis non. Ut blandit semper pretium.
+                  I followed the most popular "my website" model through GitHub to build up my website. I used Gatsby Cloud to publish my website as App.
                   </p>
                 </div>
               </div>
@@ -50,7 +50,7 @@ const projects = () => (
           <div class="content">
             <h2><p>(Udemy Bootcamp)</p>My Site(Web Development)</h2>
             <p>
-             I followed Dr. Angela Yu's Web Development Bootcamp course in Udemy to build my "website' using Node.js. 
+             I followed Dr. Angela Yu's Web Development Bootcamp course in Udemy to build my "website' using Node.js. I used Heroku to publish my website as App.
             </p>
           </div>
         </div>
