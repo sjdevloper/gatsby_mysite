@@ -1,0 +1,79 @@
+.carousel {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:840px;
+  height:560px;
+  padding-top: 20px;
+}
+
+.line{
+  margin-bottom: 10px;
+  padding-top: 10px;
+
+}
+
+.lib{
+
+  padding-top: 2px;
+  margin-bottom: 10px;
+  font-size: 10px;
+  font-weight: bold;
+
+}
+
+.blog{
+
+  padding-top: 20px;
+  color: blueviolet;
+
+}
+
+.skill{
+ margin-bottom: 1px;
+ 
+  color: blueviolet;
+
+}
+
+.skills {
+  text-align: right;
+
+  
+  color: white;
+}
+
+.html {
+  width: 90%;
+ background-color: #04AA6D;
+
+}
+.css {
+  width: 80%; 
+  background-color: #2196F3;
+}
+
+.bootstrap {
+  width: 50%; 
+  background-color: #2196F3;
+}
+
+.js {
+  width: 65%; 
+  background-color: #f44336;
+}
+
+.jquery {
+  width: 50%; 
+  background-color: #f44336;
+}
+
+.react {
+  width: 50%; 
+  background-color: #f44336;
+}
+
+.gatsby {
+  width: 50%; 
+  background-color: #f44336;
+}

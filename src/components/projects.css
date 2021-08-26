@@ -4,12 +4,32 @@ body {
   background: black;
 }
 
+.heading{
+
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 5px;
+
+
+}
+
+
+.img1{
+  padding-left: 500px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .img1 {
+    padding-left: 50px;
+  }
+}
+
 .timeline {
   position: relative;
   width: 100%;
-  max-width: 1140px;
+  max-width: 2140px;
   margin: 0 auto;
-  padding: 10px 0;
+  padding: 1px 0;
 }
 
 .timeline::after {
@@ -42,7 +62,7 @@ body {
   content: '';
   position: absolute;
   width: 16px;
-  height: 16px;
+  height: 20px;
   top: calc(50% - 8px);
   right: -8px;
   background: #ffffff;
@@ -128,6 +148,7 @@ body {
 .container1.right .content {
   padding: 30px 30px 30px 90px;
   border-radius: 500px 0 0 500px;
+
 }
 
 .container1 .content h2 {
@@ -142,8 +163,13 @@ body {
   font-size: 16px;
   line-height: 22px;
   color: #000000;
+
 }
 
+
+.word{
+  font-size: 14px;
+}
 
 @media (max-width: 767.98px) {
   .timeline::after {

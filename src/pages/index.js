@@ -9,9 +9,13 @@ import Blurb from '../components/Blurb'
 
 
 
+
+
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
+
+    <div>
     <Blurb title="I'm Shanshan.">
         <p>
           I'm a dverloper. 
@@ -20,6 +24,8 @@ const IndexPage = () => (
     </p>
       
     </Blurb>
+
+    </div>
   </Layout>
 )
 
