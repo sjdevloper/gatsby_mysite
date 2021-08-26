@@ -4,7 +4,6 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/shanshanjiang/Projects/Bootcamp/gatsby_mysite/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/shanshanjiang/Projects/Bootcamp/gatsby_mysite/src/pages/404.js")),
   "component---src-pages-blog-js": preferDefault(require("/Users/shanshanjiang/Projects/Bootcamp/gatsby_mysite/src/pages/blog.js")),
   "component---src-pages-contact-js": preferDefault(require("/Users/shanshanjiang/Projects/Bootcamp/gatsby_mysite/src/pages/contact.js")),

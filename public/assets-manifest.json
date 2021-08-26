@@ -1,0 +1,10 @@
+{
+  "main.js": "render-page.js",
+  "render-page.js.map": "render-page.js.map",
+  "static/cs.gif": "static/cs-2f54a119317860d22127be921d1c0301.gif",
+  "static/cs.jpg": "static/cs-ae5c645daeaec9c5a90ccca6f0e512bb.jpg",
+  "static/shanshan.png": "static/shanshan-4a45b6c71f9c3d74f159d7a353bb8b35.png",
+  "static/slide01.jpeg": "static/slide01-3580d00df71fb72af1045b529f663383.jpeg",
+  "static/slide02.jpeg": "static/slide02-a5139d6a4ad124126dc9ace6a74d9f7f.jpeg",
+  "static/slide03.jpeg": "static/slide03-cdfa605c7f4811c74dd881c60994db01.jpeg"
+}
