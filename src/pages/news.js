@@ -1,11 +1,8 @@
-import * as React from "react"
-
-// import { StaticImage } from "gatsby-plugin-image"
-
-
-import Layout from "../components/layout"
-import Seo from "../components/seo"
-import "../components/news.css"
+import * as React from "react";
+import { graphql } from "gatsby";
+import Layout from "../components/layout";
+import Seo from "../components/seo";
+import "../components/news.css";
 
 
 export default class news extends React.Component {
@@ -41,7 +38,7 @@ export default class news extends React.Component {
 
 
           <form class="form-signin" onSubmit={this.handleSubmit}>
-        
+
           <input class="form-control"
             type="text"
             name="firstName"
@@ -49,7 +46,7 @@ export default class news extends React.Component {
             value={this.state.firstName}
             onChange={this.handleInputChange}
           />
-       
+
            <input class="form-control"
             type="text"
             name="lastName"
@@ -67,7 +64,7 @@ export default class news extends React.Component {
           />
 
           <div class="checkbox mb-3"></div>
-      
+
         <button class="btn btn-lg btn-primary btn-block" type="submit">Sign Me Up!</button>
 
       </form>
@@ -80,7 +77,6 @@ export default class news extends React.Component {
 
 
   }
-   
+
 
 }
-

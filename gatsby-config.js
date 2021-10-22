@@ -16,7 +16,11 @@ module.exports = {
     `gatsby-plugin-sharp`,
 
 
-
+    {
+      resolve: "gatsby-source-revue",
+      options: {
+        token: process.env.REVUE_TOKEN,
+      },
 
     {
       resolve: `gatsby-source-filesystem`,
