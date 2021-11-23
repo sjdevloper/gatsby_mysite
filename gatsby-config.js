@@ -21,6 +21,7 @@ module.exports = {
       options: {
         token: process.env.REVUE_TOKEN,
       },
+    },
 
     {
       resolve: `gatsby-source-filesystem`,
@@ -29,6 +30,15 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+
+    {
+        resolve: 'gatsby-plugin-mailchimp',
+        options: {
+            endpoint: '<form action="https://gmail.us4.list-manage.com/subscribe/post?u=aac5338e026ecc2ef8397a12a&amp;id=fc410bb2ec" method="post"', // string; add your MC list endpoint here; see instructions below
+            timeout: 3500, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
+        },
+    },
+
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -42,6 +52,7 @@ module.exports = {
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
+
     },
     `gatsby-plugin-gatsby-cloud`,
     // this (optional) plugin enables Progressive Web App + Offline functionality

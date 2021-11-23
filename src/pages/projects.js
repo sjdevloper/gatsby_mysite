@@ -3,7 +3,7 @@ import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-import shanshan from '../images/cs.gif'
+import serena from '../images/cs.gif'
 import "../components/projects.css"
 
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
@@ -16,20 +16,20 @@ import{ faLinkedin,
 const projects = () => (
   <Layout>
     <Seo title="Projects"/>
-   
+
 
           <div class="heading">
         <div>
           <h1 class="title1"> Selected Projects </h1>
-          
+
         </div>
         <div>
-          <img src={shanshan} alt="Shanshan" class="img1" />
+          <img src={serena} alt="Shanshan" class="img1" />
         </div>
       </div>
 
-          
-         
+
+
 
            <div class="timeline">
               <div class="container1 left">
@@ -60,12 +60,12 @@ const projects = () => (
                   <i class="icon fa fa-home"></i>
                 <div class="content">
                     <h2><p>(ClassProject)</p>Machine Learning(CS6741)</h2>
-                  
-                  <p>We learned the course by Using same data to train and learn different machine learning 
+
+                  <p>We learned the course by Using same data to train and learn different machine learning
                       algorithm. Each algorithm has different advantage based on situation.
                       <li>Python</li>
-                     
-                      
+
+
             <a href="https://github.com/sjiang20/CS6741"
             target="_blank"
             rel="noopener noreferrer"
@@ -137,7 +137,7 @@ const projects = () => (
           <div class="content">
             <h2><p>(ClassProject)</p>Using AI to Detect and Prevent Bullying on the School Bus(CS6460)</h2>
             <p>
-              This is a related computer science "writing" class. Students need to choose a topic and have a proposal. 
+              This is a related computer science "writing" class. Students need to choose a topic and have a proposal.
               Then finding some useful articles to support the topic. My topic is Using AI to Detect and Prevent Bullying on the School Bus.
             </p>
             <li>Java</li>
@@ -167,7 +167,7 @@ const projects = () => (
           <i class="icon fa fa-cog"></i>
           <div class="content">
            <h2><p>(ClassProject)</p>Classification and Detection with Convolutional Neural Networks(CS6476)</h2>
-            <p>It is using digital dataset SVHN combined 
+            <p>It is using digital dataset SVHN combined
             with a non-digital dataset which downloaded from the Flick.</p>
             <li>Python</li>
 
@@ -177,12 +177,12 @@ const projects = () => (
           >
             Read More
           </a>
-                      
+
           </div>
         </div>
 
 
-       
+
 
 
         <div class="container1 right">
@@ -207,7 +207,6 @@ const projects = () => (
               </div>
           </div>
 
-          
 
 
 
@@ -215,17 +214,18 @@ const projects = () => (
 
 
 
-       
+
+
 
           </Layout>
 
-          
 
 
 
 
 
-    
+
+
 
 )
 

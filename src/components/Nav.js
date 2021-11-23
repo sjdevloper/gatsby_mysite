@@ -10,9 +10,9 @@ export default function Nav() {
           <div>
             <Link to="/" className="brand">
               <span className="emoji">
-                
+
               </span>{' '}
-              Shanshan Jiang
+              Serena Jiang
             </Link>
           </div>
 

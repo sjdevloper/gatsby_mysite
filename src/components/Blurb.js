@@ -1,5 +1,5 @@
 import React from 'react'
-import shanshan from '../images/cs.jpg'
+import serena from '../images/cs.jpg'
 
 
 
@@ -12,7 +12,7 @@ export default function Blurb({ title, children, img }) {
           {children}
         </div>
         <div>
-          <img src={shanshan} alt="Tania" className="avatar" />
+          <img src={serena} alt="Tania" className="avatar" />
         </div>
       </div>
     </section>

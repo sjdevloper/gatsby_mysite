@@ -19,13 +19,13 @@ const IndexPage = () => (
     <Seo title="Home" />
 
     <div>
-    <Blurb title="I'm Shanshan.">
+    <Blurb title="I'm Serena.">
         <p>
-          I'm a dverloper. 
+          I'm a dverloper.
           &mdash; I love automating and simplifying complex tasks or projects to something clean, organized and human-readable.
 
     </p>
-      
+
     </Blurb>
 
     </div>

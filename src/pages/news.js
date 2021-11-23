@@ -1,8 +1,10 @@
+
 import * as React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import Seo from "../components/seo";
 import "../components/news.css";
+
 
 
 export default class news extends React.Component {

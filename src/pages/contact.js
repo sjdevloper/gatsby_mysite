@@ -18,26 +18,26 @@ const contact = () => (
   <Layout>
     <Seo title="contact" />
 
-    
+
 
     <div class="contact-me">
       <img class="mypic" src={shanshan} alt="shanshan" />
-      
+
       <p class="contact-message"> Questions?</p>
       <a class="btn" href="mailto: sjiang086@gmail.com">Email Me</a>
 
       <div class="social">
-      
-       <a href="https://twitter.com/Shansha09561957" > <FontAwesomeIcon icon={faTwitterSquare} />  </a>
-        <a href="https://www.linkedin.com/in/jiangshanshan1028/" ><FontAwesomeIcon icon={faLinkedin} /> </a>
 
-        
+       <a href="https://twitter.com/Shansha09561957" > <FontAwesomeIcon icon={faTwitterSquare} />  </a>
+        <a href="https://www.linkedin.com/in/jiang1028" ><FontAwesomeIcon icon={faLinkedin} /> </a>
+
+
       </div>
 
-     
+
 
     </div>
-     
+
 
 
   </Layout>
