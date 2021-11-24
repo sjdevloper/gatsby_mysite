@@ -13,7 +13,6 @@ import "../components/home.css"
 
 
 
-
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
