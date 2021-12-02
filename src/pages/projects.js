@@ -23,9 +23,9 @@ const projects = () => (
           <h1 class="title1"> Selected Projects </h1>
 
         </div>
-        <div>
-          <img src={serena} alt="Shanshan" class="img1" />
-        </div>
+        // <div>
+        //   <img src={serena} alt="Shanshan" class="img1" />
+        // </div>
       </div>
 
 

@@ -14,6 +14,7 @@ module.exports = {
     `gatsby-plugin-fontawesome-css`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-material-ui`,
 
 
     // {
@@ -34,7 +35,7 @@ module.exports = {
     {
         resolve: 'gatsby-plugin-mailchimp',
         options: {
-            endpoint: '<form action="https://gmail.us4.list-manage.com/subscribe/post?u=aac5338e026ecc2ef8397a12a&amp;id=fc410bb2ec" method="post"', // string; add your MC list endpoint here; see instructions below
+            endpoint: "https://gmail.us4.list-manage.com/subscribe/post?u=aac5338e026ecc2ef8397a12a&amp;id=fc410bb2ec", // string; add your MC list endpoint here; see instructions below
             timeout: 3500, // number; the amount of time, in milliseconds, that you want to allow mailchimp to respond to your request before timing out. defaults to 3500
         },
     },
