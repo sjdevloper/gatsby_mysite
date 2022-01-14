@@ -7,6 +7,12 @@
   padding-top: 20px;
 }
 
+h1 {
+  text-align: center;
+  color:red;
+  text-decoration: underline
+}
+
 .line{
   margin-bottom: 10px;
   padding-top: 10px;
@@ -23,10 +29,8 @@
 }
 
 .blog{
-
+  color: red;
   padding-top: 20px;
   color: blueviolet;
 
 }
-
-

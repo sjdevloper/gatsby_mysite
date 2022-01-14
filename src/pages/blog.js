@@ -18,7 +18,9 @@ const blog = () => (
     <Seo title="blog" />
 
 
-
+    <div>
+          <p class="blog"><a href="https://sjiang20.github.io/" target="_blank"><h1> Click Here </h1></a></p>
+    </div>
 
     <Carousel>
       <Carousel.Item>
@@ -34,13 +36,6 @@ const blog = () => (
       </Carousel.Item>
 
     </Carousel>
-
-    // <div>
-    //        <p class="blog">Explore More in<a href="https://github.com/sjiang20" target="_blank">"BLOG"</a>and check the<Link to="/me#skill">"SKILLS"</Link></p>
-    // </div>
-
-
-
 
 
   </Layout>
