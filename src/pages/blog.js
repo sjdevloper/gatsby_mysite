@@ -16,8 +16,8 @@ import "../components/blog.css"
 const blog = () => (
   <Layout>
     <Seo title="blog" />
-     
-    
+
+
 
 
     <Carousel>
@@ -35,20 +35,15 @@ const blog = () => (
 
     </Carousel>
 
-    <div>
-           <p class="blog">Explore More in<a href="https://github.com/sjiang20" target="_blank">"BLOG"</a>and check the<Link to="/me#skill">"SKILLS"</Link></p>
-    </div>
+    // <div>
+    //        <p class="blog">Explore More in<a href="https://github.com/sjiang20" target="_blank">"BLOG"</a>and check the<Link to="/me#skill">"SKILLS"</Link></p>
+    // </div>
 
-        
-     
+
+
 
 
   </Layout>
 )
 
 export default blog
-
-
-
-
-

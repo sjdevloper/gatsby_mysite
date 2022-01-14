@@ -98,7 +98,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-website: https://shanshanjiang.netlify.app
+website: https://serenajiang.netlify.app
 
 [Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.gatsbyjs.com/products/cloud/)
 
@@ -110,10 +110,10 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 
  #### 1. npm install gatsby-image
     > gatsby-transformer-sharp gatsby-plugin-sharp
-    
+
   #### 2. Being able to query your own data will provide an added level of customization and control over your site. By default, Gatsby does this using GraphQL. Note the siteMetadata in the default starter’s gatsby-config.js:
-    
-    
+
+
   #### 3.Add bootstrap
     > npm i react-bootstrap bootstrap
     >> And, here is how I have added in gatsby-browser.js:
@@ -121,10 +121,9 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
     >> require("bootstrap/dist/js/bootstrap")
     >> Add Carousel with Gatsby image
     >> Import ‘bootstrap/dist/css/bootstrap.min.css
-    
+
    #### 4. Add fontawesome-css
    > import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
   > import{ faLinkedin,faTwitterSquare,} from '@fortawesome/free-brands-svg-icons’;
-    <FontAwesomeIcon icon={faTwitterSquare} /> 
+    <FontAwesomeIcon icon={faTwitterSquare} />
     <FontAwesomeIcon icon={faLinkedin} />
-
