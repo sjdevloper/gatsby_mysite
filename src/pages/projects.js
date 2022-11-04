@@ -27,7 +27,35 @@ const projects = () => (
 
     <div class="timeline">
       <div class="container1 left">
-        <div class="date">2020</div>
+        <div class="date">2022</div>
+        <i class="icon fa fa-home"></i>
+        <div class="content">
+          <h2>
+            <p>(Bootcamp)</p>React Internal Management System
+          </h2>
+
+          <p>
+            Built a SPA (single page application) based on MVC patterns for
+            customer informaMon management. Developed high-performance and
+            reusable React funcMonal components for customer overview informaMon
+            using React hooks. Designed RWD (responsive web design) UI fidng
+            major mobile and desktop screens using HTML5, CSS3, Bootstrap, Media
+            Queries. Implemented front-end proacMve validaMon for all form input
+            fields in real-Mme using JavaScript.
+            <li>ReactJs,Redux,JavaScrip,HTML,CSS,Nodejs,MongoDB,REST API</li>
+            <a
+              href="https://github.com/sjiang20/reactproject/tree/master/managementSystem"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Read More
+            </a>
+          </p>
+        </div>
+      </div>
+
+      <div class="container1 right">
+        <div class="date">2021</div>
         <i class="icon fa fa-home"></i>
         <div class="content">
           <h2>
