@@ -20,39 +20,61 @@ const projects = () => (
 
           <div class="heading">
         <div>
-          <h1 class="title1"> Selected Projects </h1>
+          <h2 class="title1"> Selected Projects </h2>
 
         </div>
-        // <div>
-        //   <img src={serena} alt="Shanshan" class="img1" />
-        // </div>
+         <div>
+          <img src={serena} alt="Serena" class="img1" />
+         </div>
       </div>
 
 
 
 
            <div class="timeline">
-              <div class="container1 left">
-                <div class="date">2021</div>
+
+           <div class="container1 left">
+                <div class="date">2020</div>
                   <i class="icon fa fa-home"></i>
                 <div class="content">
-                    <h2><p>(My projects)</p>Gatsby-My Site(Web Development)</h2>
-                  <p>
-                  I followed the most popular "my website" model through GitHub to build up my website. I used netlify to deploy my website.
+                    <h2><p>(Udemy Bootcamp)</p>FrontEnd Development Bootcamp 2022</h2>
+
+                  <p>I finished Dr. Angela Yu's the Complete 2022 Web Development Bootcamp in Udemy. 
+                    I  built up my website. I used netlify to deploy my website. 
+                      <li>JavaScrip</li>
+                      <li>HTML</li>
+                      <li>CSS</li>
+
+
+            <a href=" https://serenajiang.netlify.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Click For Portfolio
+          </a>
+                  </p>
+                </div>
+              </div><div class="container1 left">
+                <div class="date">2020</div>
+                  <i class="icon fa fa-home"></i>
+                <div class="content">
+                    <h2><p>(ClassProject)</p>Machine Learning(CS6741)</h2>
+
+                  <p>We learned the course by Using same data to train and learn different machine learning
+                      algorithm. Each algorithm has different advantage based on situation.
+                      <li>Python</li>
+
+
+            <a href="https://github.com/sjiang20/CS6741"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Read More
+          </a>
                   </p>
                 </div>
               </div>
 
-        <div class="container1 right">
-          <div class="date">2020</div>
-            <i class="icon fa fa-gift"></i>
-          <div class="content">
-            <h2><p>(Udemy Bootcamp)</p>My Site(Web Development)</h2>
-            <p>
-             I followed Dr. Angela Yu's Web Development Bootcamp course in Udemy to build my "website' using Node.js. I used Heroku to publish my website as App.
-            </p>
-          </div>
-        </div>
 
 
         <div class="container1 left">

@@ -9,7 +9,7 @@ import{ faLinkedin,
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import "../components/contact.css"
-import shanshan from"../images/shanshan.png"
+import serena from"../images/shanshan.png"
 
 
 
@@ -21,14 +21,14 @@ const contact = () => (
 
 
     <div class="contact-me">
-      <img class="mypic" src={shanshan} alt="shanshan" />
+      <img class="mypic" src={serena} alt="serena" />
 
       <p class="contact-message"> Questions?</p>
       <a class="btn" href="mailto: sjiang086@gmail.com">Email Me</a>
 
       <div class="social">
 
-       <a href="https://twitter.com/Shansha09561957" > <FontAwesomeIcon icon={faTwitterSquare} />  </a>
+       <a href="https://www.linkedin.com/in/jiang1028" > <FontAwesomeIcon icon={faTwitterSquare} />  </a>
         <a href="https://www.linkedin.com/in/jiang1028" ><FontAwesomeIcon icon={faLinkedin} /> </a>
 
 
