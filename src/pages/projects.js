@@ -42,7 +42,9 @@ const projects = () => (
             major mobile and desktop screens using HTML5, CSS3, Bootstrap, Media
             Queries. Implemented front-end proacMve validaMon for all form input
             fields in real-Mme using JavaScript.
-            <li>ReactJs,Redux,JavaScrip,HTML,CSS,Nodejs,MongoDB,REST API</li>
+            <li>JavaScrip,HTML,CSS</li>
+            <li>ReactJs,Redux</li>
+            <li>Nodejs,MongoDB,REST API</li>
             <a
               href="https://github.com/sjiang20/reactproject/tree/master/managementSystem"
               target="_blank"
