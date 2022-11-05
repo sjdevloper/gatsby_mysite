@@ -31,8 +31,6 @@ const IndexPage = () => (
     </div>
 
     <div class="techstack">
-      <a>Front-End development</a>
-      <a>React, JavaScript, HTML, CSS</a>
       <a>MongoDB, Nodejs, RESTapi</a>
       <a>collaboration, leadership</a>
       .focus .focus--mask .focus--mask-inner Focus
@@ -54,6 +52,7 @@ const IndexPage = () => (
         <marquee>Front-End development</marquee>
         <marquee>React</marquee>
         <marquee>HTML</marquee>
+        <marquee>CSS</marquee>
       </div>
       <div class="grid-item">
         <marquee>
