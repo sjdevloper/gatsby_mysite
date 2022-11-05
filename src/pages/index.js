@@ -31,11 +31,11 @@ const IndexPage = () => (
     </div>
 
     <div class="techstack">
-        <h1 class="techstack">Front-End development</h1>
-        <h1>React, JavaScript, HTML, CSS</h1>
-        <h1>MongoDB, Nodejs, RESTapi</h1>
-        <h1>collaboration, leadership</h1>
-      </div>
+      <a>Front-End development</a>
+      <a>React, JavaScript, HTML, CSS</a>
+      <a>MongoDB, Nodejs, RESTapi</a>
+      <a>collaboration, leadership</a>
+    </div>
 
     <div class="grid-container">
       <div class="grid-item">
@@ -49,7 +49,6 @@ const IndexPage = () => (
           </a>
         </marquee>
       </div>
-      
       <div class="grid-item">
         <marquee>
           <Link to="/projects">Projects</Link>
