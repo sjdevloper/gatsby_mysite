@@ -35,13 +35,13 @@ const projects = () => (
           </h2>
 
           <p>
-            Built a SPA (single page application) based on MVC patterns for
-            customer informaMon management. Developed high-performance and
-            reusable React funcMonal components for customer overview informaMon
-            using React hooks. Designed RWD (responsive web design) UI fidng
-            major mobile and desktop screens using HTML5, CSS3, Bootstrap, Media
-            Queries. Implemented front-end proacMve validaMon for all form input
-            fields in real-Mme using JavaScript.
+            I built a SPA (single page application) based on MVC patterns for
+            customer informaMon management. I developed high-performance and
+            reusable React functtional components for customer overview
+            informaMon using React hooks. I designed RWD (responsive web design)
+            UI fitting major mobile and desktop screens using HTML5, CSS3,
+            Bootstrap, Media Queries. I implemented front-end proactive
+            validation for all form input fields in real-time using JavaScript.
             <li>JavaScrip,HTML,CSS</li>
             <li>ReactJs,Redux</li>
             <li>Nodejs,MongoDB,REST API</li>
