@@ -51,9 +51,9 @@ const IndexPage = () => (
         </marquee>
       </div>
       <div class="grid-item">
-        <marquee>
-          <Link to="/projects">Projects</Link>
-        </marquee>
+        <marquee>Front-End development</marquee>
+        <marquee>React</marquee>
+        <marquee>HTML</marquee>
       </div>
       <div class="grid-item">
         <marquee>
