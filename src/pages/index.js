@@ -30,6 +30,13 @@ const IndexPage = () => (
       </Blurb>
     </div>
 
+    <div class="techstack">
+        <h1 class="techstack">Front-End development</h1>
+        <h1>React, JavaScript, HTML, CSS</h1>
+        <h1>MongoDB, Nodejs, RESTapi</h1>
+        <h1>collaboration, leadership</h1>
+      </div>
+
     <div class="grid-container">
       <div class="grid-item">
         <marquee>
@@ -42,12 +49,7 @@ const IndexPage = () => (
           </a>
         </marquee>
       </div>
-      <div class="techstack">
-        <h1>Front-End development</h1>
-        <h1>React, JavaScrit, HTML, CSS</h1>
-        <h1>MongoDB, Nodejs, RESTapi</h1>
-        <h1>collaboration, leadership</h1>
-      </div>
+      
       <div class="grid-item">
         <marquee>
           <Link to="/projects">Projects</Link>
