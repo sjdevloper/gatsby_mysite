@@ -35,6 +35,7 @@ const IndexPage = () => (
       <a>React, JavaScript, HTML, CSS</a>
       <a>MongoDB, Nodejs, RESTapi</a>
       <a>collaboration, leadership</a>
+      .focus .focus--mask .focus--mask-inner Focus
     </div>
 
     <div class="grid-container">
