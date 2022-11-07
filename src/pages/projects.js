@@ -72,11 +72,11 @@ const projects = () => (
             <li>HTML</li>
             <li>CSS</li>
             <a
-              href=" https://serenajiang.netlify.app"
+              href=" https://sjiang.netlify.app"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Click For Portfolio
+              Click For Website
             </a>
           </p>
         </div>

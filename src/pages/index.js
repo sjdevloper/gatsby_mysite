@@ -31,6 +31,42 @@ const IndexPage = () => (
     </div>
 
     <div class="grid-container">
+    <section id="skill">
+      <div class="container line">
+        <p class="skill">HTML</p>
+        <div class="skills html">90%</div>
+      </div>
+
+      <div class="container line">
+        <p class="skill">CSS</p>
+        <div class="skills css">80%</div>
+      </div>
+
+      <div class="container lib">
+        <div class="skills bootstrap">Bootstrap</div>
+      </div>
+
+      <div class="container line">
+        <p class="skill">JavaScript</p>
+        <div class="skills js">65%</div>
+      </div>
+
+      <div class="container lib">
+        <div class="skills jquery">JQuery</div>
+      </div>
+
+      <div class="container lib">
+        <div class="skills react">React.js</div>
+      </div>
+
+      <div class="container lib">
+        <div class="skills gatsby">React.js Gatsby</div>
+      </div>
+
+      <div class="container lib">
+        <div class="skills gatsby">Node.js</div>
+      </div>
+    </section>
       <div class="grid-item">
         <marquee>
           <a
