@@ -30,12 +30,6 @@ const IndexPage = () => (
       </Blurb>
     </div>
 
-    <div class="techstack">
-      <a>MongoDB, Nodejs, RESTapi</a>
-      <a>collaboration, leadership</a>
-      .focus .focus--mask .focus--mask-inner Focus
-    </div>
-
     <div class="grid-container">
       <div class="grid-item">
         <marquee>
@@ -51,8 +45,9 @@ const IndexPage = () => (
       <div class="grid-item">
         <marquee>Front-End development</marquee>
         <marquee>React</marquee>
-        <marquee>HTML</marquee>
-        <marquee>CSS</marquee>
+        <marquee>JavaScript,HTML,CSS</marquee>
+        <marquee>MongoDB, Nodejs, RESTapi</marquee>
+        <marquee>Collaboration, Leadership</marquee>
       </div>
       <div class="grid-item">
         <marquee>
