@@ -16,12 +16,8 @@ const IndexPage = () => (
         <p>I'm a dverloper. </p>
         <p>
           &mdash; I got my master’s degree in the US and majored in computer
-          science.{" "}
-        </p>
-        <p>
-          {" "}
-          &mdash; I love automating and simplifying complex tasks or projects to
-          something clean, organized and human-readable.
+          science. I love automating and simplifying complex tasks or projects
+          to something clean, organized and human-readable.
         </p>
         <p>
           &mdash; Now I live in San Francisco Bay Area. I am looking for a
@@ -30,82 +26,62 @@ const IndexPage = () => (
       </Blurb>
     </div>
 
-    <div class="grid-container">
-    <section id="skill">
-      <div class="container line">
-        <p class="skill">HTML</p>
-        <div class="skills html">90%</div>
+    <div class="row">
+      <div class="grid-container">
+        <div class="grid-item">
+          <h1>
+            <a
+              href="https://github.com/sjiang20/CS6300"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              MERN Inventory APP
+            </a>
+          </h1>
+          <h1>
+            <a
+              href="https://github.com/sjiang20/CS6300"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Individual Website
+            </a>
+          </h1>
+          <h1>
+            <a
+              href="https://github.com/sjiang20/CS6300"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              To-Do List APP
+            </a>
+          </h1>
+          <h1>
+            <a
+              href="https://github.com/sjiang20/CS6300"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Calendar APP
+            </a>
+          </h1>
+        </div>
       </div>
-
-      <div class="container line">
-        <p class="skill">CSS</p>
-        <div class="skills css">80%</div>
+      <div class="grid-container">
+        <div class="grid-item">
+          <marquee>Front-End development</marquee>
+          <marquee>ReactJS</marquee>
+          <marquee>JavaScript</marquee>
+          <marquee>MongoDB</marquee>
+          <marquee>Collaboration</marquee>
+          <marquee>HTML</marquee>
+          <marquee>Nodejs</marquee>
+          <marquee>CSS</marquee>
+          <marquee>REST API</marquee>
+          <marquee>Leadership</marquee>
+          <marquee>Quick learner</marquee>
+        </div>
       </div>
-
-      <div class="container lib">
-        <div class="skills bootstrap">Bootstrap</div>
-      </div>
-
-      <div class="container line">
-        <p class="skill">JavaScript</p>
-        <div class="skills js">65%</div>
-      </div>
-
-      <div class="container lib">
-        <div class="skills jquery">JQuery</div>
-      </div>
-
-      <div class="container lib">
-        <div class="skills react">React.js</div>
-      </div>
-
-      <div class="container lib">
-        <div class="skills gatsby">React.js Gatsby</div>
-      </div>
-
-      <div class="container lib">
-        <div class="skills gatsby">Node.js</div>
-      </div>
-    </section>
-      <div class="grid-item">
-        <marquee>
-          <a
-            href="https://github.com/sjiang20"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            GitHub
-          </a>
-        </marquee>
-      </div>
-      <div class="grid-item">
-        <marquee>Front-End development</marquee>
-        <marquee>React</marquee>
-        <marquee>JavaScript,HTML,CSS</marquee>
-        <marquee>MongoDB, Nodejs, RESTapi</marquee>
-        <marquee>Collaboration, Leadership</marquee>
-      </div>
-      <div class="grid-item">
-        <marquee>
-          <Link to="/me"> Myself</Link>
-        </marquee>
-      </div>
-      <div class="grid-item">
-        <marquee>
-          <Link to="/news"> Newsletter</Link>
-        </marquee>
-      </div>
-      <div class="grid-item">
-        <marquee>
-          <Link to="/contact">Contact</Link>
-        </marquee>
-      </div>
-      <div class="grid-item">
-        <marquee>
-          <Link to="/">Home</Link>
-        </marquee>{" "}
-      </div>
-      =
     </div>
   </Layout>
 );

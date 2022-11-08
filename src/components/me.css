@@ -303,6 +303,53 @@
   }
 }
 
+
+.skill {
+  margin-bottom: 1px;
+
+  color: blueviolet;
+}
+
+.skills {
+  text-align: right;
+
+  color: white;
+}
+
+.html {
+  width: 90%;
+  background-color: #04aa6d;
+}
+.css {
+  width: 80%;
+  background-color: #2196f3;
+}
+
+.bootstrap {
+  width: 50%;
+  background-color: #2196f3;
+}
+
+.js {
+  width: 65%;
+  background-color: #f44336;
+}
+
+.jquery {
+  width: 50%;
+  background-color: #f44336;
+}
+
+.react {
+  width: 50%;
+  background-color: #f44336;
+}
+
+.gatsby {
+  width: 50%;
+  background-color: #f44336;
+}
+
 @media screen and (min-width: 400px ?? max-width: 660px) {
   .direction-l .desc,
   .direction-r .desc {

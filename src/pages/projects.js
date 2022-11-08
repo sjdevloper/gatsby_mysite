@@ -18,7 +18,7 @@ const projects = () => (
 
     <div class="heading">
       <div>
-        <h1 class="title1"> Selected Projects </h1>
+        <h1>Selected Projects</h1>
       </div>
       <div>
         <img src={serena} alt="Serena" class="img1" />
