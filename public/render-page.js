@@ -22111,24 +22111,24 @@ module.exports = __webpack_require__(/*! util */ "util").deprecate;
 /***/ }),
 
 /***/ "react-dom/server":
-/*!********************************************************************************************************!*\
-  !*** external "/Users/shanshanjiang/Projects/Bootcamp/gatsby_mysite/node_modules/react-dom/server.js" ***!
-  \********************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** external "/Users/shanshanjiang/Projects/gatsby_mysite/node_modules/react-dom/server.js" ***!
+  \***********************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/shanshanjiang/Projects/Bootcamp/gatsby_mysite/node_modules/react-dom/server.js");
+module.exports = require("/Users/shanshanjiang/Projects/gatsby_mysite/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!***************************************************************************************************!*\
-  !*** external "/Users/shanshanjiang/Projects/Bootcamp/gatsby_mysite/node_modules/react/index.js" ***!
-  \***************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** external "/Users/shanshanjiang/Projects/gatsby_mysite/node_modules/react/index.js" ***!
+  \******************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/shanshanjiang/Projects/Bootcamp/gatsby_mysite/node_modules/react/index.js");
+module.exports = require("/Users/shanshanjiang/Projects/gatsby_mysite/node_modules/react/index.js");
 
 /***/ }),
 
