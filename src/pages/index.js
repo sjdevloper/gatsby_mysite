@@ -40,13 +40,24 @@ const IndexPage = () => (
           </h1>
           <h1>
             <a
-              href="https://github.com/sjiang20/CS6300"
+              href="https://serenassite.gatsbyjs.io"
               target="_blank"
               rel="noopener noreferrer"
             >
               Individual Website
             </a>
           </h1>
+
+          <h1>
+            <a
+              href="https://familykichen.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              WordPress APP
+            </a>
+          </h1>
+
           <h1>
             <a
               href="https://github.com/sjiang20/CS6300"
