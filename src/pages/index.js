@@ -28,8 +28,8 @@ const IndexPage = () => (
 
     <div class="row">
       <div class="grid-container">
-        <p>Please click each app to see details</p>
         <div class="grid-item">
+          <p>Please click each app to see details</p>
           <h1>
             <a
               href="https://github.com/sjiang20/CS6300"
