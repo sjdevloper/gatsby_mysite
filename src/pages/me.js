@@ -15,23 +15,32 @@ const me = () => (
 
     <ul class="timeline1">
       <li>
-        <div class="direction-l">
+        <div class="direction-r">
           <div class="flag-wrapper">
             <span class="flag">
-              Looking for a Full-time Front-End (remote)job
+              Udemy: The Complete 2022 Web Development Bootcamp
             </span>
             <span class="time-wrapper">
-              <span class="time">2022 - present</span>
+              <span class="time">Jan 2022 -Apr 2022</span>
             </span>
           </div>
           <div class="desc">
-            My main technology are React, JavaScript, HTML, CSS, NodeJs{" "}
+            {" "}
+            It covers a massive amount of tools and technologies, including:It
+            covers a massive amount of tools and technologies, including:
+            ContentFront-End Web Development, HTML5, CSS3, Bootstrap4,
+            JavascriptES6, DOM Manipulation, jQuery, Bash Command Line, Git,
+            GitHub and Version Control, Backend Web Development, Node.js, NPM,
+            Express.js, EJS, REST, APIs Databases, SQL, MongoDB, Mongoose,
+            Authentication, Firebase, React.js, React Hooks, Web Design,
+            Deployment with GitHub Pages, Heroku and MongoDB Atlas, Web3
+            Development on the Internet Computer, Blockchain technology, Token
+            contract development, NFT minting, buying and selling logic.{" "}
           </div>
         </div>
       </li>
-
       <li>
-        <div class="direction-r">
+        <div class="direction-l">
           <div class="flag-wrapper">
             <span class="flag">Web Development Intern</span>
             <span class="time-wrapper">
@@ -47,6 +56,42 @@ const me = () => (
             code the functional webpage and participated in the weekly meeting,
             and give reports about each week’s progress. I leart a lot from this
             experience.{" "}
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="direction-l">
+          <div class="flag-wrapper">
+            <span class="flag">Web Development Intern</span>
+            <span class="time-wrapper">
+              <span class="time">Jan 2022 -Apr 2022</span>
+            </span>
+          </div>
+          <div class="desc">
+            {" "}
+            I got my first web development job. It was an intership to build and
+            maintain the officla website for showing and selling products . I
+            collaborated with a team of 3 other people and was motivated to work
+            with them on the task. For example, I took initiative to graph and
+            code the functional webpage and participated in the weekly meeting,
+            and give reports about each week’s progress. I leart a lot from this
+            experience.{" "}
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <div class="direction-r">
+          <div class="flag-wrapper">
+            <span class="flag">
+              Looking for a Full-time Front-End (remote)job
+            </span>
+            <span class="time-wrapper">
+              <span class="time">2022 - present</span>
+            </span>
+          </div>
+          <div class="desc">
+            My main technology are React, JavaScript, HTML, CSS, NodeJs{" "}
           </div>
         </div>
       </li>

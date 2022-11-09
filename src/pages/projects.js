@@ -26,7 +26,7 @@ const projects = () => (
     </div>
 
     <div class="timeline">
-      <div class="container1 left">
+      <div class="container1 right">
         <div class="date">2022</div>
         <i class="icon fa fa-home"></i>
         <div class="content">
@@ -56,8 +56,8 @@ const projects = () => (
         </div>
       </div>
 
-      <div class="container1 right">
-        <div class="date">2021</div>
+      <div class="container1 left">
+        <div class="date">2022</div>
         <i class="icon fa fa-home"></i>
         <div class="content">
           <h2>
@@ -76,7 +76,30 @@ const projects = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              Click For Website
+              Click to see Website
+            </a>
+          </p>
+        </div>
+      </div>
+
+      <div class="container1 right">
+        <div class="date">2022</div>
+        <i class="icon fa fa-home"></i>
+        <div class="content">
+          <h2>
+            <p>(Udemy Bootcamp)</p>FrontEnd Development Bootcamp 2022
+          </h2>
+
+          <p>
+            I finished Dr. Angela Yu's the Complete 2022 Web Development
+            Bootcamp in Udemy. I built up my own Blog.
+            <li>CSS</li>
+            <a
+              href=" https://sjiang20.github.io"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Click for Blog
             </a>
           </p>
         </div>
