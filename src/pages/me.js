@@ -21,7 +21,7 @@ const me = () => (
               Udemy: The Complete 2022 Web Development Bootcamp
             </span>
             <span class="time-wrapper">
-              <span class="time">Jan 2022 -Apr 2022</span>
+              <span class="time">2022</span>
             </span>
           </div>
           <div class="desc">
@@ -39,6 +39,7 @@ const me = () => (
           </div>
         </div>
       </li>
+
       <li>
         <div class="direction-l">
           <div class="flag-wrapper">
@@ -49,33 +50,13 @@ const me = () => (
           </div>
           <div class="desc">
             {" "}
-            I got my first web development job. It was an intership to build and
-            maintain the officla website for showing and selling products . I
-            collaborated with a team of 3 other people and was motivated to work
-            with them on the task. For example, I took initiative to graph and
-            code the functional webpage and participated in the weekly meeting,
-            and give reports about each week’s progress. I leart a lot from this
-            experience.{" "}
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="direction-l">
-          <div class="flag-wrapper">
-            <span class="flag">Web Development Intern</span>
-            <span class="time-wrapper">
-              <span class="time">Jan 2022 -Apr 2022</span>
-            </span>
-          </div>
-          <div class="desc">
-            {" "}
-            I got my first web development job. It was an intership to build and
-            maintain the officla website for showing and selling products . I
-            collaborated with a team of 3 other people and was motivated to work
-            with them on the task. For example, I took initiative to graph and
-            code the functional webpage and participated in the weekly meeting,
-            and give reports about each week’s progress. I leart a lot from this
-            experience.{" "}
+            I got my first web development intership. It was an intership to
+            build and maintain the officla website for showing and selling
+            products . I collaborated with a team of 3 other people and was
+            motivated to work with them on the task. For example, I took
+            initiative to graph and code the functional webpage and participated
+            in the weekly meeting, and give reports about each week’s progress.
+            I leart a lot from this experience.{" "}
           </div>
         </div>
       </li>
