@@ -45,7 +45,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              Individual Website
+              Individual Portfolio App
             </a>
           </h1>
 
