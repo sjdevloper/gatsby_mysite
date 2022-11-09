@@ -29,6 +29,7 @@ const IndexPage = () => (
     <div class="row">
       <div class="grid-container">
         <div class="grid-item">
+          <p>Please click each app to see details</p>
           <h1>
             <a
               href="https://github.com/sjiang20/CS6300"
@@ -73,7 +74,7 @@ const IndexPage = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              Calendar APP
+              Android Job Comparison APP
             </a>
           </h1>
         </div>
@@ -81,6 +82,8 @@ const IndexPage = () => (
       <div class="grid-container">
         <div class="grid-item">
           <marquee>Front-End development</marquee>
+          <marquee>Leadership</marquee>
+          <marquee>Quick learner</marquee>
           <marquee>ReactJS</marquee>
           <marquee>JavaScript</marquee>
           <marquee>MongoDB</marquee>
@@ -88,9 +91,7 @@ const IndexPage = () => (
           <marquee>HTML</marquee>
           <marquee>Nodejs</marquee>
           <marquee>CSS</marquee>
-          <marquee>REST API</marquee>
-          <marquee>Leadership</marquee>
-          <marquee>Quick learner</marquee>
+          <marquee>RESTful API</marquee>
         </div>
       </div>
     </div>
