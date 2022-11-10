@@ -26,7 +26,7 @@ const projects = () => (
     </div>
 
     <div class="timeline">
-      <div class="container1 right">
+      <div class="container1 left">
         <div class="date">2022</div>
         <i class="icon fa fa-home"></i>
         <div class="content">
@@ -56,32 +56,6 @@ const projects = () => (
         </div>
       </div>
 
-      <div class="container1 left">
-        <div class="date">2022</div>
-        <i class="icon fa fa-home"></i>
-        <div class="content">
-          <h2>
-            <p>(Udemy Bootcamp)</p>FrontEnd Development Bootcamp 2022
-          </h2>
-
-          <p>
-            I finished Dr. Angela Yu's the Complete 2022 Web Development
-            Bootcamp in Udemy. I built up my website. I used netlify to deploy
-            my website.
-            <li>JavaScrip</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <a
-              href=" https://sjiang.netlify.app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Click to see Website
-            </a>
-          </p>
-        </div>
-      </div>
-
       <div class="container1 right">
         <div class="date">2022</div>
         <i class="icon fa fa-home"></i>
@@ -92,14 +66,47 @@ const projects = () => (
 
           <p>
             I finished Dr. Angela Yu's the Complete 2022 Web Development
-            Bootcamp in Udemy. I built up my own Blog.
+            Bootcamp in Udemy. I built up my website. I used netlify to deploy
+            my website. And I also buil up several App for excercising using
+            languages listed below.
+            <li>React</li>
+            <li>JavaScrip</li>
+            <li>HTML</li>
             <li>CSS</li>
+            <a
+              href=" https://sjiang.netlify.app"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Individual Portfolio Website
+            </a>
             <a
               href=" https://sjiang20.github.io"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Click for Blog
+              Blog App
+            </a>
+            <a
+              href=" https://github.com/sjiang20/amplifyapp"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              React App
+            </a>
+            <a
+              href=" https://github.com/sjiang20/Drum-Machine"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Drum_Machine App
+            </a>
+            <a
+              href=" https://github.com/sjiang20/Random_Quote_Machine"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Random_Quote_Machine App
             </a>
           </p>
         </div>

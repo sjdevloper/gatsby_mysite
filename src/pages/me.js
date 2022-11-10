@@ -36,6 +36,13 @@ const me = () => (
             Deployment with GitHub Pages, Heroku and MongoDB Atlas, Web3
             Development on the Internet Computer, Blockchain technology, Token
             contract development, NFT minting, buying and selling logic.{" "}
+            <a
+              href=" https://www.udemy.com/certificate/UC-38ad5c2a-79b7-47d8-b008-2fff076761e3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=emailhttps://www.udemy.com/certificate/UC-38ad5c2a-79b7-47d8-b008-2fff076761e3/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Certificate of Completion
+            </a>
           </div>
         </div>
       </li>
