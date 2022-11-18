@@ -2,35 +2,31 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width:840px;
-  height:560px;
+  width: 840px;
+  height: auto;
   padding-top: 20px;
 }
 
 h1 {
   text-align: center;
-  color:red;
-  text-decoration: underline
+  color: red;
+  text-decoration: underline;
 }
 
-.line{
+.line {
   margin-bottom: 10px;
   padding-top: 10px;
-
 }
 
-.lib{
-
+.lib {
   padding-top: 2px;
   margin-bottom: 10px;
   font-size: 10px;
   font-weight: bold;
-
 }
 
-.blog{
+.blog {
   color: red;
   padding-top: 20px;
   color: blueviolet;
-
 }
