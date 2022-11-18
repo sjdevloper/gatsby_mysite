@@ -41,54 +41,54 @@ const blog = () => (
         <img src={slide04} alt="This is the First Slide" />
       </Carousel.Item>
     </Carousel>
-<div class="app">
-    <h1>
-      <a
-        href="https://github.com/sjiang20/CS6300"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        MERN Inventory APP
-      </a>
-    </h1>
-    <h1>
-      <a
-        href="https://serenassite.gatsbyjs.io"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Individual Portfolio App
-      </a>
-    </h1>
+    <div class="app">
+      <h1 class="app">
+        <a
+          href="https://github.com/sjiang20/CS6300"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          MERN Inventory APP
+        </a>
+      </h1>
+      <h1>
+        <a
+          href="https://serenassite.gatsbyjs.io"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Individual Portfolio App
+        </a>
+      </h1>
 
-    <h1>
-      <a
-        href="https://familykichen.com"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        WordPress APP
-      </a>
-    </h1>
+      <h1>
+        <a
+          href="https://familykichen.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          WordPress APP
+        </a>
+      </h1>
 
-    <h1>
-      <a
-        href="https://github.com/sjiang20/CS6300"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        To-Do List APP
-      </a>
-    </h1>
-    <h1>
-      <a
-        href="https://github.com/sjiang20/CS6300"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Android Job Comparison APP
-      </a>
-    </h1>
+      <h1>
+        <a
+          href="https://github.com/sjiang20/CS6300"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          To-Do List APP
+        </a>
+      </h1>
+      <h1>
+        <a
+          href="https://github.com/sjiang20/CS6300"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Android Job Comparison APP
+        </a>
+      </h1>
     </div>
     {/* </div>
     </div> */}
