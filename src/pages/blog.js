@@ -9,6 +9,7 @@ import { Carousel } from "react-bootstrap";
 import slide01 from "../images/slide01.jpeg";
 import slide02 from "../images/slide02.jpeg";
 import slide03 from "../images/slide03.jpeg";
+import slide04 from "../images/slide04.jpeg";
 
 import "../components/blog.css";
 
@@ -36,8 +37,10 @@ const blog = () => (
       <Carousel.Item>
         <img src={slide03} alt="This is the First Slide" />
       </Carousel.Item>
+      <Carousel.Item>
+        <img src={slide04} alt="This is the First Slide" />
+      </Carousel.Item>
     </Carousel>
-
 
     <h1>
       <a
