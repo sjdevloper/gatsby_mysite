@@ -20,6 +20,7 @@ const blog = () => (
       <p class="blog">
         <a href="https://sjiang20.github.io/" target="_blank">
           <h1> Click Here </h1>
+          <a>(Gihub Page)</a>
         </a>
       </p>
     </div>
@@ -40,55 +41,55 @@ const blog = () => (
 
     {/* <div class="grid-container">
       <div class="grid-item"> */}
-        <p>Please click each app to see details</p>
-        <h1>
-          <a
-            href="https://github.com/sjiang20/CS6300"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            MERN Inventory APP
-          </a>
-        </h1>
-        <h1>
-          <a
-            href="https://serenassite.gatsbyjs.io"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Individual Portfolio App
-          </a>
-        </h1>
 
-        <h1>
-          <a
-            href="https://familykichen.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            WordPress APP
-          </a>
-        </h1>
+    <h1>
+      <a
+        href="https://github.com/sjiang20/CS6300"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        MERN Inventory APP
+      </a>
+    </h1>
+    <h1>
+      <a
+        href="https://serenassite.gatsbyjs.io"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Individual Portfolio App
+      </a>
+    </h1>
 
-        <h1>
-          <a
-            href="https://github.com/sjiang20/CS6300"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            To-Do List APP
-          </a>
-        </h1>
-        <h1>
-          <a
-            href="https://github.com/sjiang20/CS6300"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Android Job Comparison APP
-          </a>
-        </h1>
-      {/* </div>
+    <h1>
+      <a
+        href="https://familykichen.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        WordPress APP
+      </a>
+    </h1>
+
+    <h1>
+      <a
+        href="https://github.com/sjiang20/CS6300"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        To-Do List APP
+      </a>
+    </h1>
+    <h1>
+      <a
+        href="https://github.com/sjiang20/CS6300"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Android Job Comparison APP
+      </a>
+    </h1>
+    {/* </div>
     </div> */}
   </Layout>
 );
