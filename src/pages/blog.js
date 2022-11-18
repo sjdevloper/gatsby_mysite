@@ -19,10 +19,7 @@ const blog = () => (
     <div>
       <p class="blog">
         <a href="https://sjiang20.github.io/" target="_blank">
-          <h1>
-            {" "}
-            Click Here <a>(Gihub Page)</a>{" "}
-          </h1>
+          <h1> Github Development Blog </h1>
         </a>
       </p>
     </div>
@@ -41,8 +38,6 @@ const blog = () => (
       </Carousel.Item>
     </Carousel>
 
-    {/* <div class="grid-container">
-      <div class="grid-item"> */}
 
     <h1>
       <a
