@@ -41,7 +41,7 @@ const blog = () => (
         <img src={slide04} alt="This is the First Slide" />
       </Carousel.Item>
     </Carousel>
-
+<div class="app">
     <h1>
       <a
         href="https://github.com/sjiang20/CS6300"
@@ -89,6 +89,7 @@ const blog = () => (
         Android Job Comparison APP
       </a>
     </h1>
+    </div>
     {/* </div>
     </div> */}
   </Layout>
