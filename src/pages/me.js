@@ -17,7 +17,7 @@ const me = () => (
       <li>
         <div class="direction-l">
           <div class="flag-wrapper">
-            <span class="flag">Greenstand React Development Volunteer</span>
+            <span class="flag">Greenstand: React Development Volunteer</span>
             <span class="time-wrapper">
               <span class="time">Nov 2022 - Present</span>
             </span>
@@ -67,7 +67,7 @@ const me = () => (
       <li>
         <div class="direction-l">
           <div class="flag-wrapper">
-            <span class="flag">Web Development Intern</span>
+            <span class="flag">Turf Envy LLC: Web Development Intern</span>
             <span class="time-wrapper">
               <span class="time">Jan 2022 -Apr 2022</span>
             </span>

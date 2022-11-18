@@ -38,8 +38,8 @@ const blog = () => (
       </Carousel.Item>
     </Carousel>
 
-    <div class="grid-container">
-      <div class="grid-item">
+    {/* <div class="grid-container">
+      <div class="grid-item"> */}
         <p>Please click each app to see details</p>
         <h1>
           <a
@@ -88,8 +88,8 @@ const blog = () => (
             Android Job Comparison APP
           </a>
         </h1>
-      </div>
-    </div>
+      {/* </div>
+    </div> */}
   </Layout>
 );
 
