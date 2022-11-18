@@ -19,8 +19,10 @@ const blog = () => (
     <div>
       <p class="blog">
         <a href="https://sjiang20.github.io/" target="_blank">
-          <h1> Click Here </h1>
-          <a>(Gihub Page)</a>
+          <h1>
+            {" "}
+            Click Here <a>(Gihub Page)</a>{" "}
+          </h1>
         </a>
       </p>
     </div>
