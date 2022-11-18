@@ -26,7 +26,7 @@ const blog = () => (
     </div>
 
     <Carousel>
-      <Carousel.Item>
+      <Carousel.Item style="height:300px width:400px">
         <img src={slide01} alt="This is the First Slide" />
       </Carousel.Item>
 
