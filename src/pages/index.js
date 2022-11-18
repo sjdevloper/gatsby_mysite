@@ -21,13 +21,12 @@ const IndexPage = () => (
         </p>
         <p>
           &mdash; Now I live in San Francisco Bay Area. I am looking for a
-          remote front-end development job.{" "}
+          remote software development job.{" "}
         </p>
       </Blurb>
     </div>
 
     <div class="row">
-     
       <div class="grid-container">
         <div class="grid-item">
           <marquee>Front-End development</marquee>
