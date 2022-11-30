@@ -44,11 +44,11 @@ const blog = () => (
     <div class="app">
       <h1 class="app">
         <a
-          href="https://github.com/sjiang20/CS6300"
+          href="https://github.com/sjiang20/reactproject/tree/master/managementSystem"
           target="_blank"
           rel="noopener noreferrer"
         >
-          MERN Inventory APP
+          MERN Management System APP
         </a>
       </h1>
       <h1>
