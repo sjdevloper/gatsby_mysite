@@ -88,15 +88,14 @@ const me = () => (
       <li>
         <div class="direction-r">
           <div class="flag-wrapper">
-            <span class="flag">
-              Looking for a Full-time Front-End (remote)job
-            </span>
+            <span class="flag">Huikang Equipment LLC: Web Developer</span>
             <span class="time-wrapper">
-              <span class="time">2022 - present</span>
+              <span class="time">2020 - 2021</span>
             </span>
           </div>
           <div class="desc">
-            My main technology are React, JavaScript, HTML, CSS, NodeJs{" "}
+            Apprenticeship Program.My main technology are React, JavaScript,
+            HTML, CSS, NodeJs{" "}
           </div>
         </div>
       </li>

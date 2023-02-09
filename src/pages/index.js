@@ -16,12 +16,13 @@ const IndexPage = () => (
         <p>I'm a dverloper. </p>
         <p>
           &mdash; I got my master’s degree in the US and majored in computer
-          science. I love automating and simplifying complex tasks or projects
-          to something clean, organized and human-readable.
+          science. I have 2 years of professional development experience.I love
+          automating and simplifying complex tasks or projects to something
+          clean, organized and human-readable.
         </p>
         <p>
-          &mdash; Now I live in San Francisco Bay Area. I am looking for a
-          remote software development job.{" "}
+          &mdash; Now I live in Bay Area. I am looking for a remote software
+          development job.{" "}
         </p>
       </Blurb>
     </div>
