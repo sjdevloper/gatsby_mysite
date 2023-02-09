@@ -94,8 +94,11 @@ const me = () => (
             </span>
           </div>
           <div class="desc">
-            Apprenticeship Program.My main technology are React, JavaScript,
-            HTML, CSS, NodeJs{" "}
+            Apprenticeship Program. Maintaining the current system and finally
+            delivering new functionality to the existing project. New functional
+            improves customer experience by 90%. Remotely working with a team of
+            5 members, learned a lot from the senior developers. My main
+            technology is React JavaScript, HTML, CSS, and Node Js.{" "}
           </div>
         </div>
       </li>
